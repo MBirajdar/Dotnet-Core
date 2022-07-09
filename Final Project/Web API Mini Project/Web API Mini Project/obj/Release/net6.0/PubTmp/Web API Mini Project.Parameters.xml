@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WebAPIMiniProject20220706180041" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\dotnet\ core\ training\\Mini\ Project\\Web\ API\ Mini\ Project\\Web\ API\ Mini\ Project\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
