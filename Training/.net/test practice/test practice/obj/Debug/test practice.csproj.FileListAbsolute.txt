@@ -1,0 +1,7 @@
+C:\.net\test practice\test practice\bin\Debug\test practice.exe.config
+C:\.net\test practice\test practice\bin\Debug\test practice.exe
+C:\.net\test practice\test practice\bin\Debug\test practice.pdb
+C:\.net\test practice\test practice\obj\Debug\test practice.csproj.AssemblyReference.cache
+C:\.net\test practice\test practice\obj\Debug\test practice.csproj.CoreCompileInputs.cache
+C:\.net\test practice\test practice\obj\Debug\test practice.exe
+C:\.net\test practice\test practice\obj\Debug\test practice.pdb

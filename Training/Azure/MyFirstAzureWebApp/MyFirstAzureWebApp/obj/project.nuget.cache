@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yX55vM18rTJzTt4h8Ja3NGa2wKwTvcxBKPlgZ2XFyWQXDXxzI73cgvuvrzCrL2xDggp3oEXldKuara52l9FlFA==",
+  "success": true,
+  "projectFilePath": "C:\\Training\\Azure\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\MyFirstAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MB67563\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

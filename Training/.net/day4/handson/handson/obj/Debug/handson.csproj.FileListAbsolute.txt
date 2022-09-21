@@ -1,0 +1,8 @@
+C:\.net\day4\handson\handson\bin\Debug\handson.exe.config
+C:\.net\day4\handson\handson\bin\Debug\handson.exe
+C:\.net\day4\handson\handson\bin\Debug\handson.pdb
+C:\.net\day4\handson\handson\obj\Debug\handson.csproj.AssemblyReference.cache
+C:\.net\day4\handson\handson\obj\Debug\handson.csproj.SuggestedBindingRedirects.cache
+C:\.net\day4\handson\handson\obj\Debug\handson.csproj.CoreCompileInputs.cache
+C:\.net\day4\handson\handson\obj\Debug\handson.exe
+C:\.net\day4\handson\handson\obj\Debug\handson.pdb

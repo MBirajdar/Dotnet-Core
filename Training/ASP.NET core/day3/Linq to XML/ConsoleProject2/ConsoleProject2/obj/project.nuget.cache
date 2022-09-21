@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bzL17TIfnC2NEcQx9Ksb2lDxbmEwuAuO25KwWl8K4a+FD3rf2+OtqKDa3QnKGctl+JpAz4u3H38FwBIwRhqo3g==",
+  "success": true,
+  "projectFilePath": "C:\\Training\\ASP.NET core\\day3\\Linq to XML\\ConsoleProject2\\ConsoleProject2\\ConsoleProject2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MB67563\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

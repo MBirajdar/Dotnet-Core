@@ -1,0 +1,7 @@
+C:\Training\.net\Demoproject\Demoproject\bin\Debug\Demoproject.exe.config
+C:\Training\.net\Demoproject\Demoproject\bin\Debug\Demoproject.exe
+C:\Training\.net\Demoproject\Demoproject\bin\Debug\Demoproject.pdb
+C:\Training\.net\Demoproject\Demoproject\obj\Debug\Demoproject.csproj.AssemblyReference.cache
+C:\Training\.net\Demoproject\Demoproject\obj\Debug\Demoproject.csproj.CoreCompileInputs.cache
+C:\Training\.net\Demoproject\Demoproject\obj\Debug\Demoproject.exe
+C:\Training\.net\Demoproject\Demoproject\obj\Debug\Demoproject.pdb

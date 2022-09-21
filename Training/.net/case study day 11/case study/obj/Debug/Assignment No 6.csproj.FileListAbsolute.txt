@@ -1,0 +1,7 @@
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\bin\Debug\Assignment No 6.exe.config
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\bin\Debug\Assignment No 6.exe
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\bin\Debug\Assignment No 6.pdb
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\obj\Debug\Assignment No 6.csproj.AssemblyReference.cache
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\obj\Debug\Assignment No 6.csproj.CoreCompileInputs.cache
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\obj\Debug\Assignment No 6.exe
+C:\dotnet training\Assignment\C#\Assignment no 6\Assignment No 6\Assignment No 6\obj\Debug\Assignment No 6.pdb

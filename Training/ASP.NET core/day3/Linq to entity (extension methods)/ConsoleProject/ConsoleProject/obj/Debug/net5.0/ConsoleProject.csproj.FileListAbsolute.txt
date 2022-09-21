@@ -1,0 +1,16 @@
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.exe
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.deps.json
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.runtimeconfig.json
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.runtimeconfig.dev.json
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.dll
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ref\ConsoleProject.dll
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\bin\Debug\net5.0\ConsoleProject.pdb
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.csproj.AssemblyReference.cache
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.AssemblyInfoInputs.cache
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.AssemblyInfo.cs
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.dll
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ref\ConsoleProject.dll
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.pdb
+C:\Training\ASP.NET core\day3\ConsoleProject\ConsoleProject\obj\Debug\net5.0\ConsoleProject.genruntimeconfig.cache

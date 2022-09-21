@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<body style="background-color:rgb(226, 143, 219);">
+    <h1 style="color:rgb(23, 24, 23)"><centre>Registration Form</centre></h1>
+    <form action="Mainpage.html" method="post">
+     First Name :&nbsp;&nbsp;<input type="text" name="txtfname"><br>
+     Last Name :&nbsp;&nbsp;<input type="text" name="txtlname"><br>
+     Age :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="number" name="age"><br>
+     Address :&nbsp;&nbsp;<textarea rows="4" cols="35"></textarea><br><br>
+     Gender : &nbsp;&nbsp;<input type="radio" name="gender" value="m" checked >Male
+     <input type="radio" name="gender" value="f" >Female
+     <input type="radio" name="gender" value="o" >Others<br><br>
+     City : &nbsp;&nbsp;<select name="city">
+         <option value="ahmd">Pune</option>
+         <option value="blr">Hyderabad</option>
+         <option value="chn" selected>gujrat</option>
+         <option value="del">Delhi</option>
+         <option value="mum">Mumbai</option>
+     </select><br><br>
+     Select ID Proof :&nbsp;&nbsp;<br>
+     <input type="checkbox" name="id1" value="ac" checked>Aadhar Card<br>
+     <input type="checkbox" name="id2" value="pc">Pan Card<br>
+     <input type="checkbox" name="id3" value="dl">Driving License<br><br><br>
+     Upload Proofs :&nbsp;&nbsp;
+     <input type="file"> <br><br>
+     <tr>
+        <td>
+        <a href="http://127.0.0.1:5500/register."><button type="submit" value="submit"></a>
+
+     <input type="reset" value="Clear">
+        </td>
+     </tr>
+     
+    </form>
+</body>

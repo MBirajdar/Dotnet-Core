@@ -1,0 +1,43 @@
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\appsettings.Development.json
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\appsettings.json
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.exe
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.deps.json
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.runtimeconfig.json
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.runtimeconfig.dev.json
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.dll
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\ref\Student project.dll
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.pdb
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.Views.dll
+C:\Training\ASP.NET core\day1\Student project\Student project\bin\Debug\net5.0\Student project.Views.pdb
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.csproj.AssemblyReference.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.AssemblyInfoInputs.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.AssemblyInfo.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.csproj.CoreCompileInputs.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.RazorAssemblyInfo.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.RazorAssemblyInfo.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\scopedcss\bundle\Student project.styles.css
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\staticwebassets\Student project.StaticWebAssets.Manifest.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.TagHelpers.input.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.TagHelpers.output.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.RazorCoreGenerate.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Student\FirstName.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Student\GetStudLocation.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Student\Name.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\Student\PhoneNum.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.RazorTargetAssemblyInfo.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.RazorTargetAssemblyInfo.cs
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.Views.pdb
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.dll
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\ref\Student project.dll
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.pdb
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.genruntimeconfig.cache
+C:\Training\ASP.NET core\day1\Student project\Student project\obj\Debug\net5.0\Student project.csproj.CopyComplete

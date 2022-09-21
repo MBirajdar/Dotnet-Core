@@ -1,0 +1,39 @@
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\appsettings.Development.json
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\appsettings.json
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.exe
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.deps.json
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.runtimeconfig.json
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.runtimeconfig.dev.json
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.dll
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\ref\MVC Windows Aunth.dll
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.pdb
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.Views.dll
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\bin\Debug\net5.0\MVC Windows Aunth.Views.pdb
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.csproj.AssemblyReference.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.AssemblyInfoInputs.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.AssemblyInfo.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.csproj.CoreCompileInputs.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.RazorAssemblyInfo.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.RazorAssemblyInfo.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\scopedcss\bundle\MVC Windows Aunth.styles.css
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\staticwebassets\MVC Windows Aunth.StaticWebAssets.Manifest.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.TagHelpers.input.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.TagHelpers.output.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.RazorCoreGenerate.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.RazorTargetAssemblyInfo.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.RazorTargetAssemblyInfo.cs
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.Views.pdb
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.dll
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\ref\MVC Windows Aunth.dll
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.pdb
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.genruntimeconfig.cache
+C:\Training\ASP.NET core\day7\MVC Windows Aunth\MVC Windows Aunth\obj\Debug\net5.0\MVC Windows Aunth.csproj.CopyComplete
